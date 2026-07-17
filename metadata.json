@@ -1,0 +1,6 @@
+{
+  "name": "آموزش ساختار معنایی HTML رژ لب",
+  "description": "یک صفحه محصول رژ لب شیک با زبان و فونت فارسی که ساختار درخت سلسله‌مراتبی تگ‌های H1 تا H6 در HTML معنایی را با کادربندی‌های تعاملی آموزش می‌دهد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
